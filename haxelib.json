@@ -1,0 +1,20 @@
+{
+	"name": "react-native-view-slider",
+	"classPath": "src",
+	"dependencies": {
+		"react-next": ""
+	},
+	"url": "https://github.com/DevInFlow/react-native-view-slider",
+	"contributors": [
+		"varadig"
+		
+	],
+	"version": "0.0.1",
+	"releasenote": "Various updates",
+	"tags": [
+		"react",
+		"native",
+        "viewSlider"
+	],
+	"license": "MIT"
+}
